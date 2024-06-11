@@ -1,0 +1,104 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem 0;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    margin-top: 0;
+    font-size: 1.
+
+    section h2 {
+        margin-top: 0;
+        font-size: 1.5rem;
+        border-bottom: 2px solid #333;
+        padding-bottom: 0.5rem;
+    }
+    
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+    
+    ul li {
+        padding: 0.5rem 0;
+    }
+    
+    footer {
+        background: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1rem 0;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+    
+    footer p {
+        margin: 0;
+    }
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      
+      header {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+      }
+      
+      h1 {
+        margin: 0;
+      }
+      
+      section {
+        padding: 20px;
+      }
+      
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      
+      .skill-category {
+        margin-bottom: 20px;
+      }
+      
+      .project {
+        margin-bottom: 30px;
+      }
+      
+      /* Add more CSS styles as needed */
+      
+    
